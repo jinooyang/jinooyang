@@ -9,6 +9,9 @@
 <br/>
 <div>🌱Studying Java, Spring, Algorithm...  
 </div>
+<br/>
+<div>🏫Graduated Hongik Univ. Computer Engineering </div><br/>
+<div>✏️SSAFY 10th</div>
 <br/>  
 
 
