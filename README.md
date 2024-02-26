@@ -1,15 +1,14 @@
 
   
 
-# <div align="center">WELCOME</div>  
-  
 
-Email : jinooyang@gmail.com  
   
-
-Studying Java, Spring, Algorithm...  
-  
-
+<h1 align="center">Jinoo Yang Developer</h3>
+<div>📧Email : jinooyang@gmail.com  
+  </div>
+<br/>
+<div>🌱Studying Java, Spring, Algorithm...  
+</div>
 <br/>  
 
 
@@ -55,23 +54,18 @@ Studying Java, Spring, Algorithm...
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/github.com/jinooyang" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/yjin_oo_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
   
 
 <br/>  
 
-
-## Activity  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinooyang&hide_border=true&layout=compact" align="center" /></div>  
+## Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tigris3000)](https://solved.ac/tigris3000/)
+
+## Status
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinooyang&hide_border=true&layout=compact" align="center" />
+
+
 <br/>  
 
 
