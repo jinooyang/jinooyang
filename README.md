@@ -7,11 +7,11 @@
 <div>📧Email : jinooyang@gmail.com  
   </div>
 <br/>
-<div>🌱Studying Java, Spring, Algorithm...  
+<div>🌱Studying : Java, Spring, Algorithm...  
 </div>
 <br/>
-<div>🏫Graduated Hongik Univ. Computer Engineering </div><br/>
-<div>✏️SSAFY 10th</div>
+<div>🏫Graduated : Hongik Univ. Computer Engineering </div><br/>
+<div>✏️Current : SSAFY 10th</div>
 <br/>  
 
 
