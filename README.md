@@ -11,7 +11,7 @@
 </div>
 <br/>
 <div>🏫Graduated : Hongik Univ. Computer Engineering </div><br/>
-<div>✏️Current : SSAFY 10th</div>
+<div>✏️Education : SSAFY 10th</div>
 <br/>  
 
 
